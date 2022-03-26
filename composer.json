@@ -26,7 +26,7 @@
         "ext-json": "*",
         "topthink/framework": "^6.0",
         "symfony/process": "^4.2",
-        "nesbot/carbon": "^2.16"
+        "nesbot/carbon": "^2.55.0"
     },
     "extra": {
         "think": {
